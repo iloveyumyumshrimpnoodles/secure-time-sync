@@ -13,7 +13,6 @@ The current websites in the pool are:
 * The EFF's website
 
 The script can optionally connect to these websites over Tor and will connect to an onion service where possible.
-If not using Tor, the script protects against https downgrade attacks by enforcing TLS with curl.
 
 # Usage
 To use the script
